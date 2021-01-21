@@ -14,7 +14,7 @@
     "minimist": "^1.2.5",
     "set-value": "^3.0.2",
     "simple-peer": "^9.2.1",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "watchify": "^3.11.1"
