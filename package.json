@@ -12,7 +12,7 @@
     "express": "^4.16.4",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
-    "set-value": "^3.0.2",
+    "set-value": "^4.0.1",
     "simple-peer": "^9.2.1",
     "socket.io": "^2.2.0"
   },
